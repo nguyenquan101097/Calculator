@@ -1,5 +1,4 @@
 # Calculator
-A calculator app is written in Java
+A calculator app
 
 Open the app in dist file
-YOLO!
